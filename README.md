@@ -1,5 +1,5 @@
 # About
-This module is a test case for rxaviers/react-globalize-webpack-plugin. It shows how string changes can sometimes cause a webpack asset hash to not be updated.
+This module is a test case for [rxaviers/react-globalize-webpack-plugin](https://github.com/rxaviers/react-globalize-webpack-plugin). It shows how string changes can sometimes cause a webpack asset hash to not be updated.
 
 # Installation
 `npm install`
