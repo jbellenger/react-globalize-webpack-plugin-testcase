@@ -1,9 +1,7 @@
 const webpack = require('webpack');
 const ReactGlobalizePlugin = require('react-globalize-webpack-plugin');
 const GlobalizePluginUtil = require('globalize-webpack-plugin/util');
-const util = require('util');
 const path = require('path');
-const assert = require('assert');
 
 const buildModule = (main, builddir) => new Promise((resolve, reject) => {
   const webpackConfig = {
